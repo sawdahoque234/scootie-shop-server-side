@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-scootie-shop",
+  "private_key_id": "ce9fa32cba5961673208b6a61207eb133226226d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSxBddOl8/I49Y\nKWQ4tICisEqovy69hAFXMt/qHXfFbmMDa4BC2JZZwviaPdwKSPUXaWfLLtSNN9hf\nDmhzaAGl2zJEURavC5/R7l3K9AEBQBWX3rfYNKxWGrkhBYARseROwTa+7wERnZSl\nCRvGKwLo+3C5sKX5e/CpdFTcO0Kw3QsBSVlHzOBQRMq6umvX6MInPuOiF4xqaS4c\numghx1K+Nn8dB852ltSbkIBD2z2tbMWNB1yOQDCzn/RpwSGjeANqTa3YcOtgtug0\n390Uq3yHOKKBsV//+aXvnKF8d40R70T1tY3ZTkfwxpYhKXWcCTwOUgcwhJ2q82Fv\n2iCLaDfPAgMBAAECggEAJN0F9U+tDsHSxlUXLDsCOFrJVds3VTir0Yggv8AJDljs\nm7ZLr/6QvRkAslUpSJgMn4XFIT6w+ot1WGLZD2unRk5pMMmhRfRIf0U837Yr7nF3\nOv8g9Dg+tR3fNBEamtcwvis/ofOMNC19YXqJNFwnTfeh17Ir7h8YUqe6jNqBpMRv\nBqLg2Q2HIAc7t9r4rHBs/1sZvcOervYFAM0D7/Y8YgDBStBDVEC0LqTQm3hWhwx0\npcx4ZryMbmK8neyLzGYCvdUa+eaj59fBah9pfAYlLZI/dg4kLAKSKtfysEAUF4CU\nMxYKZ0r0Z9mthFoK6iCNyzqFVbSnTDn6h2x35UF4YQKBgQDJWnW4iMZgcknzI7eq\nnI714ErLDF1ASlxn86dd1GmHA9T9icPRKkFke0Pc5BHKo4Ak0WqThvFzHmQyKZuk\n1D155GnHLzkqeADg6uJ2Lg4OD36YYS+g6+Q1QhhbydOFl17jhfog+O31H0zcZRCa\nqF/luK7rg0JYYCNy/uvRcRk6EQKBgQC6mQibEiEDQa11tGybwspy/z37TX/AxWMK\ng44bSQZTlfjCavo9dRRIxkD8Y40jm/EEql0Q5AVlJ+KldCZE+p8X+x93wp65y1a4\n7MJDn1Cx+6GjWvEIR2i3xlH4Fzf0I4JvaENzQ1vNdrKb0/Xn71yi7lodPnedGaX5\n5YoGeslz3wKBgBueEbl+4R7HbkcwJff7w0wMOJYDGyM/T89eRx2Cjfrb1rHz3Gzr\nC88ZbSR2D86ogGIMaz7S6nksuPd8Z4HDLq9yWePdIU0m6o/vB6LIDFt3WpjR87Nx\nx3pal3a3hxCyw2wXq0gsfI77fRJZtl5QK98ZZryc41O11Abo2jV++sPRAoGBALSn\n2PcZlDCs851TsxsSeiLgD0gwfhFKiVryhzDPgHqIZjEElYXOxna2ytAQKeNh5PTZ\nZAUoXjjTZtE9JJf/9Ouoy4yNNlM3FJ0xS9tgcSYAMzwOnfGgATh7n3yMLjYF8xCd\nZ0A+5LCFzOKlUhzdV1i/XyuVAQVugYzxuLIRSt0NAoGAPiPdfvCbTOH0y7g1cl/z\n9oP8+2GBe6TvBAC32W0YG1PImZ6/qKt0JMleULxCavdjQXeUZj56W4d5Jh+Vk367\nYVi1Mqz5ESqf8UHFWWZiedWehvQaxF+9dlr+CrwSSBvvIskSqEp0gf2zvI+QnFaX\nl+e6NB+crH/Kuojg70bvBBg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lzgan@my-scootie-shop.iam.gserviceaccount.com",
+  "client_id": "106524951645779489860",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lzgan%40my-scootie-shop.iam.gserviceaccount.com"
+}
